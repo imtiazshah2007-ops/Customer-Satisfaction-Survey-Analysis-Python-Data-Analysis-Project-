@@ -1,0 +1,31 @@
+RespondentID,Name,Age,Gender,Satisfaction
+1,Alice,28,Female,Very Satisfied
+2,Bob,35,Male,Satisfied
+3,Charlie,42,Male,Neutral
+4,Diana,31,Female,Very Satisfied
+5,Eve,26,Female,Dissatisfied
+6,Frank,38,Male,Satisfied
+7,Grace,29,Female,Very Satisfied
+8,Henry,45,Male,Neutral
+9,Irene,33,Female,Satisfied
+10,Jack,27,Male,Very Dissatisfied
+11,Karen,36,Female,Satisfied
+12,Leo,41,Male,Very Satisfied
+13,Mona,24,Female,Neutral
+14,Nathan,30,Male,Satisfied
+15,Olivia,37,Female,Very Satisfied
+16,Paul,48,Male,Dissatisfied
+17,Quinn,22,Female,Satisfied
+18,Ryan,34,Male,Very Satisfied
+19,Sara,29,Female,Neutral
+20,Tom,40,Male,Satisfied
+21,Uma,32,Female,Very Satisfied
+22,Victor,44,Male,Neutral
+23,Wendy,25,Female,Satisfied
+24,Xander,39,Male,Dissatisfied
+25,Yara,28,Female,Very Satisfied
+26,Zane,36,Male,Satisfied
+27,Amy,31,Female,Neutral
+28,Brian,43,Male,Very Satisfied
+29,Cathy,27,Female,Satisfied
+30,Derek,35,Male,Very Dissatisfied
